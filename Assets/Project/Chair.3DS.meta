@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 340ed0059696b8c478c7e116f63c9d04
+timeCreated: 1517432005
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box54697
+    100002: Box54698
+    100004: //RootNode
+    100006: Cylinder10
+    100008: Cylinder11
+    100010: Line79140
+    100012: Line79141
+    100014: Line79142
+    100016: Line79143
+    100018: Line79144
+    100020: Line79145
+    100022: Rectangle4
+    100024: sidenje009
+    400000: Box54697
+    400002: Box54698
+    400004: //RootNode
+    400006: Cylinder10
+    400008: Cylinder11
+    400010: Line79140
+    400012: Line79141
+    400014: Line79142
+    400016: Line79143
+    400018: Line79144
+    400020: Line79145
+    400022: Rectangle4
+    400024: sidenje009
+    2300000: Box54697
+    2300002: Box54698
+    2300004: Cylinder10
+    2300006: Cylinder11
+    2300008: Line79140
+    2300010: Line79141
+    2300012: Line79142
+    2300014: Line79143
+    2300016: Line79144
+    2300018: Line79145
+    2300020: Rectangle4
+    2300022: sidenje009
+    3300000: Box54697
+    3300002: Box54698
+    3300004: Cylinder10
+    3300006: Cylinder11
+    3300008: Line79140
+    3300010: Line79141
+    3300012: Line79142
+    3300014: Line79143
+    3300016: Line79144
+    3300018: Line79145
+    3300020: Rectangle4
+    3300022: sidenje009
+    4300000: Line79141
+    4300002: Cylinder11
+    4300004: Line79144
+    4300006: Line79143
+    4300008: Line79142
+    4300010: Line79140
+    4300012: Cylinder10
+    4300014: Rectangle4
+    4300016: Line79145
+    4300018: sidenje009
+    4300020: Box54698
+    4300022: Box54697
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st leather
+    second: {fileID: 2100000, guid: 97bc13f754da07f478adf2d43cd325f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st wood
+    second: {fileID: 2100000, guid: e89a1a151d8bd9a418ca6870ce30e1c1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
